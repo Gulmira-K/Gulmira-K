@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gulmira-K
+- 👋 Hi, I’m Gulmira
 - 👀 I’m interested in Front End Development
 - 🌱 I’m currently learning ReactJS and Redux
 - 📫 Reach me at <gkojenova@gmail.com>
