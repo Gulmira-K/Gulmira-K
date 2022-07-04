@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Gulmira
 - 👀 I’m a Front End Development
-- 🌱 Currently improving my ReactJS skills and learning Redux
 - 📫 Reach me at <gkojenova@gmail.com>
 
 <!---
